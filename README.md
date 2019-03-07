@@ -22,16 +22,16 @@ I asked the respondent to do the following steps:
 Here is the transcript
 <Work In Progress>
 ```
-This is the original recording
-
-<audio controls>
-<source src="audio/interview.mp3" type="audio/mpeg">
-Audio embedding is not supported
-</audio>
+The original recording is available [here](audio/interview.mp3)
 
 ## Models and Annotations
 ### Artifact Model
-[Work In Progress](https://picsum.photos/400/300/?random)
+![Artifact00](img/img00.png)
+![Artifact01](img/img01.png)
+![Artifact02](img/img02.png)
+![Artifact03](img/img03.png)
+![Artifact04](img/img04.png)
+
 ### Flow Model
 [Work In Progress](https://picsum.photos/400/300/?random)
 ### Cultural Model
