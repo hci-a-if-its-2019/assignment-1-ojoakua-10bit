@@ -1,5 +1,5 @@
 # Contextual Inquiry and Analysis
-## Device/ App/ Website Description
+## Device/App/Website Description
 
 Doom9 forum ([forum.doom9.org](https://forum.doom9.org)) is a forum site about Multimedia technology on PC, CD/DVD Ripping, Video/Audio codecs, Media Players etc. This site have some problem that make the site "not too friendly" for new users. For the example this site doesn't have "responsive design" or "mobile version" so you'll get the same view on phone like the desktop version, the unintuitive search feature and confusing menu placement.
 
@@ -33,7 +33,7 @@ The original recording is available [here](audio/interview.mp3)
 ![Artifact04](img/img04.png)
 
 ### Flow Model
-[Work In Progress](https://picsum.photos/400/300/?random)
+![Flow Diagram](img/diagram01.png)
 ### Cultural Model
 [Work In Progress](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
