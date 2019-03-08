@@ -1,6 +1,8 @@
 # Contextual Inquiry and Analysis
 ## Device/App/Website Description
 
+![Doom9 Forum Webpaage](img/doom9.png)
+
 Doom9 forum ([forum.doom9.org](https://forum.doom9.org)) is a forum site about Multimedia technology on PC, CD/DVD Ripping, Video/Audio codecs, Media Players etc. This site have some problem that make the site "not too friendly" for new users. For the example this site doesn't have "responsive design" or "mobile version" so you'll get the same view on phone like the desktop version, the unintuitive search feature and confusing menu placement.
 
 ## User Description
@@ -34,7 +36,13 @@ The original recording is available [here](audio/interview.mp3)
 
 ### Flow Model
 ![Flow Diagram](img/diagram01.png)
+
 ### Cultural Model
-[Work In Progress](https://picsum.photos/400/300/?random)
+![Cultural Diagram](img/diagram02.png)
+
 ## Do's and Don't's
-Work In Progress
+
+* Give a separate mobile sites or at least make your site responsive. It's awful if we have to zoom in and out just to read the content.
+* Don't hide the vital function of site (like search). It might confuse the users.
+* Make the top search result is the most relevant to the entered keyword. Rather than the most popular but less relevant.
+* If there is no match result for the entered keyword, show the closest suggestion if possible. It's possible that users made a typological error when entering the keyword
