@@ -25,12 +25,7 @@ Here is the transcript
 <Work In Progress>
 ```
 
-<audio controls>
-<source src="audio/interview.mp3" type="audio/mpeg">
-<source src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-ojoakua-10bit/master/audio/interview.mp3" type="audio/mpeg">
-</audio>
-
-The original recording is available [here](audio/interview.mp3)
+The original recording is available [here](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-ojoakua-10bit/master/audio/interview.mp3)
 
 ## Models and Annotations
 ### Artifact Model
