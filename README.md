@@ -24,6 +24,12 @@ I asked the respondent to do the following steps:
 Here is the transcript
 <Work In Progress>
 ```
+
+<audio controls>
+<source src="audio/interview.mp3" type="audio/mpeg">
+<source src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-ojoakua-10bit/master/audio/interview.mp3" type="audio/mpeg">
+</audio>
+
 The original recording is available [here](audio/interview.mp3)
 
 ## Models and Annotations
@@ -45,4 +51,4 @@ The original recording is available [here](audio/interview.mp3)
 * Give a separate mobile sites or at least make your site responsive. It's awful if we have to zoom in and out just to read the content.
 * Don't hide the vital function of site (like search). It might confuse the users.
 * Make the top search result is the most relevant to the entered keyword. Rather than the most popular but less relevant.
-* If there is no match result for the entered keyword, show the closest suggestion if possible. It's possible that users made a typological error when entering the keyword
+* If there is no match result for the entered keyword, show the closest suggestion if possible. It's possible that users made a typological error when entering the keyword.
