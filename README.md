@@ -298,3 +298,11 @@ The original recording is available [here](https://raw.githubusercontent.com/hci
 * Don't hide the vital function of site (like search). It might confuse the users.
 * Make the top search result is the most relevant to the entered keyword. Rather than the most popular but less relevant.
 * If there is no match result for the entered keyword, show the closest suggestion if possible. It's possible that users made a typological error when entering the keyword.
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * However, the `Models and Annotations` lack of reference numbers (with which time-codes on the `Transcript` the breakdowns/barriers relate to). The reference numbers are necessary to underlines that all the problems you have exposed on the Models have evidences.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 2                | 6               | 87                 | 62,5       | 82,1  |
