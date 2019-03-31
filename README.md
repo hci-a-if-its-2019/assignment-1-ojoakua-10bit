@@ -302,6 +302,7 @@ The original recording is available [here](https://raw.githubusercontent.com/hci
 # Remarks
 > * Thanks for completing all the parts in this assignment.
 > * However, the `Models and Annotations` lack of reference numbers (with which time-codes on the `Transcript` the breakdowns/barriers relate to). The reference numbers are necessary to underlines that all the problems you have exposed on the Models have evidences.
+> * Another comment: It's better to write `Do's` and `Don't's` sentences in separate sub section to make it clearer for readers to read.
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
